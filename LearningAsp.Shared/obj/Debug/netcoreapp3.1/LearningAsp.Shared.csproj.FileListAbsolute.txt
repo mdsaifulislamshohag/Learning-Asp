@@ -1,0 +1,8 @@
+C:\Users\avita\Projects\dotnet\LearningAsp\LearningAsp.Shared\bin\Debug\netcoreapp3.1\LearningAsp.Shared.deps.json
+C:\Users\avita\Projects\dotnet\LearningAsp\LearningAsp.Shared\bin\Debug\netcoreapp3.1\LearningAsp.Shared.dll
+C:\Users\avita\Projects\dotnet\LearningAsp\LearningAsp.Shared\bin\Debug\netcoreapp3.1\LearningAsp.Shared.pdb
+C:\Users\avita\Projects\dotnet\LearningAsp\LearningAsp.Shared\obj\Debug\netcoreapp3.1\LearningAsp.Shared.AssemblyInfoInputs.cache
+C:\Users\avita\Projects\dotnet\LearningAsp\LearningAsp.Shared\obj\Debug\netcoreapp3.1\LearningAsp.Shared.AssemblyInfo.cs
+C:\Users\avita\Projects\dotnet\LearningAsp\LearningAsp.Shared\obj\Debug\netcoreapp3.1\LearningAsp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\avita\Projects\dotnet\LearningAsp\LearningAsp.Shared\obj\Debug\netcoreapp3.1\LearningAsp.Shared.dll
+C:\Users\avita\Projects\dotnet\LearningAsp\LearningAsp.Shared\obj\Debug\netcoreapp3.1\LearningAsp.Shared.pdb
